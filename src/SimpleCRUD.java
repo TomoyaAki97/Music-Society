@@ -18,7 +18,7 @@ import java.sql.SQLException;
 import javax.swing.*;
 
 public class SimpleCRUD extends JFrame {
-    private JLabel jlblProgCode= new JLabel("Programme Code");
+    private JLabel jlblProgCode= new JLabel("Code");
     private JTextField jtfProgCode = new JTextField(10);
     private JLabel jlblProgName= new JLabel("Programme Name");
     private JTextField jtfProgName = new JTextField(15);
