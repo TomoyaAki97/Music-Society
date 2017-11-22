@@ -66,7 +66,7 @@ public class SimpleCRUD extends JFrame {
         add(jpanel, BorderLayout.CENTER);
         add(jpanel2, BorderLayout.SOUTH);
         
-        setTitle("Programme CRUD");
+        setTitle("Programme CRU");
         setSize(600,200);
         setLocationRelativeTo(null);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
